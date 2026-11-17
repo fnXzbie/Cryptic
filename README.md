@@ -70,7 +70,7 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
    ```bash
 
-   git clone https://github.com/fnXzbie/Hash_Code_Encrypt-Decrypt.git
+   git clone https://github.com/fnXzbie/Hash_Coder.git
 
    ```
 
@@ -78,7 +78,7 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
    ```bash
 
-   cd Hash_Code_Encrypt/Decrypt
+   cd Hash_Coder
 
    ```
 
