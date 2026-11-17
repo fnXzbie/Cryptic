@@ -1,4 +1,4 @@
-# 📌 GitHub Repo Kısa Açıklaması (Description / About)
+# 📌 (Description / About)
 
 > Modern arayüze sahip, tamamen internetsiz çalışabilen; hashleme, JWT analizi, hash türü algılama ve çoklu encoding/decoding işlemlerini destekleyen siber güvenlik araç kutusu. 🚀
 
