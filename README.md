@@ -1,6 +1,8 @@
 # 📌 (Description / About)
 
-> Modern arayüze sahip, tamamen internetsiz çalışabilen; hashleme, JWT analizi, hash türü algılama ve çoklu encoding/decoding işlemlerini destekleyen siber güvenlik araç kutusu. 🚀
+
+
+> A modern, fully offline-capable cybersecurity toolkit supporting hashing, JWT analysis, hash type identification, and multi-format encoding/decoding operations. 🚀
 
 
 
@@ -12,7 +14,7 @@
 
 
 
-Modern, şık ve tamamen çevrimdışı (offline) çalışabilen, siber güvenlik meraklıları ve geliştiriciler için tasarlanmış çok amaçlı kriptografi araç kutusu. Python ve Tkinter ile geliştirilmiştir.
+A multi-purpose cryptographic toolkit designed for cybersecurity enthusiasts and developers, featuring a modern, sleek interface and complete offline functionality. Developed with Python and Tkinter.
 
 
 
@@ -28,29 +30,29 @@ Modern, şık ve tamamen çevrimdışı (offline) çalışabilen, siber güvenli
 
 
 
-## ✨ Özellikler
+## ✨ Features
 
 
 
-* **Hash Oluşturma:** MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512 algoritmaları ile anlık hash üretimi.
+* **Hash Generation:** Instant hash generation using MD5, SHA-1, SHA-224, SHA-256, SHA-384, and SHA-512 algorithms.
 
-* **Akıllı Hash Türü Algılama:** Girilen bir hash değerinin karakter uzunluğunu ve yapısını analiz ederek olası türünü otomatik tespit eder.
+* **Smart Hash Type Detection:** Automatically detects the potential type of an entered hash value by analyzing its character length and structure.
 
-* **JWT İnceleyici (Decoder):** JSON Web Token (JWT) yapılarını Header ve Payload olarak ayrıştırır ve okunabilir formata getirir.
+* **JWT Inspector (Decoder):** Parses JSON Web Token (JWT) structures into Header and Payload segments and presents them in a readable format.
 
-* **Encoding & Decoding Desteği:**
+* **Encoding & Decoding Support:**
 
   * Base64 & Base32
 
-  * Hex (Onaltılık)
+  * Hexadecimal
 
-  * Binary (İkili Sistem)
+  * Binary System
 
   * URL Encoding
 
-  * ASCII Dönüşümleri
+  * ASCII Conversions
 
-* **Çevrimdışı (Offline) Çalışma:** Hiçbir internet bağlantısına ihtiyaç duymadan tam güvenlikli ve bağımsız çalışır.
+* **Offline Operation:** Operates completely independently and securely without requiring any internet connection.
 
 
 
@@ -58,15 +60,15 @@ Modern, şık ve tamamen çevrimdışı (offline) çalışabilen, siber güvenli
 
 
 
-## 🚀 Kurulum & Çalıştırma
+## 🚀 Installation & Usage
 
 
 
-Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
+You can follow these steps to run the project on your local machine:
 
 
 
-1. Repoyu klonlayın:
+1. Clone the repository:
 
    ```bash
 
@@ -74,7 +76,7 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
    ```
 
-2. Klasörün içine girin:
+2. Navigate into the folder:
 
    ```bash
 
@@ -82,7 +84,7 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
    ```
 
-3. Uygulamayı çalıştırın:
+3. Run the application:
 
    ```bash
 
@@ -96,11 +98,11 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
 
 
-## 📦 Tek Başına (.exe) Çalıştırılabilir Dosya Oluşturma
+## 📦 Creating a Standalone Executable (.exe)
 
 
 
-Projeyi Python kurulu olmayan bilgisayarlarda tekil bir `.exe` olarak çalıştırmak isterseniz **PyInstaller** kullanabilirsiniz:
+If you want to run the project as a standalone `.exe` on computers without Python installed, you can use **PyInstaller**:
 
 
 
@@ -112,7 +114,7 @@ python -m PyInstaller --onefile --noconsole hashcoder.py
 
 ```
 
-*(Oluşan `.exe` dosyası `dist` klasörünün altında yer alacaktır.)*
+*(The generated `.exe` file will be located under the `dist` folder.)*
 
 
 
@@ -120,8 +122,8 @@ python -m PyInstaller --onefile --noconsole hashcoder.py
 
 
 
+## 📜 License
 
 
-## 📜 Lisans
 
-Bu proje MIT lisansı altında açılmıştır. Dilediğiniz gibi geliştirebilir ve özelleştirebilirsiniz.
+This project is licensed under the MIT License. Feel free to modify and customize it as you wish.
