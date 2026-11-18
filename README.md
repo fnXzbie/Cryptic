@@ -72,7 +72,7 @@ You can follow these steps to run the project on your local machine:
 
    ```bash
 
-   git clone https://github.com/fnXzbie/Hash_Coder.git
+   git clone https://github.com/fnXzbie/Cryptic.git
 
    ```
 
@@ -80,7 +80,7 @@ You can follow these steps to run the project on your local machine:
 
    ```bash
 
-   cd Hash_Coder
+   cd Cryptic
 
    ```
 
@@ -88,7 +88,7 @@ You can follow these steps to run the project on your local machine:
 
    ```bash
 
-   python hashcoder.py
+   python cryptic.py
 
    ```
 
@@ -110,7 +110,7 @@ If you want to run the project as a standalone `.exe` on computers without Pytho
 
 python -m pip install pyinstaller
 
-python -m PyInstaller --onefile --noconsole hashcoder.py
+python -m PyInstaller --onefile --noconsole cryptic.py
 
 ```
 
